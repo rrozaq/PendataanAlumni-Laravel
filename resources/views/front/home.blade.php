@@ -22,7 +22,7 @@
 				<div class="navbar-collapse collapse">
 					<ul class="nav navbar-nav navbar-right">
 						@if (Session::has('getLogin'))
-							<li style="color: #fff; padding-top: 13px;"><b>Hallo, Selamat Datang - {{{ Session::get('getLogin') }}}</b> !</font></li>
+							<li style="color: #f6e5f0; padding-top: 13px;"><b>Hallo, Selamat Datang - {{{ Session::get('getLogin') }}}</b> !</font></li>
 						@else
                     		<li><a href="#" data-toggle="modal" data-target=".bs-example-modal-lg">Login</a></li>
 						@endif
