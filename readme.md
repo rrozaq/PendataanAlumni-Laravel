@@ -28,3 +28,5 @@ $ artisan db:seed
 anda harus mendapatkan api dari amikom, untuk bisa menggunakan fungsi login user agar data alumni bisa terlihat semua.
 
 5. Done
+
+## Semoga Bermanfaat
